@@ -1,0 +1,25 @@
+[
+    {
+      "idFuncionario": 1,
+      "nome": "Jacinto Lama",
+      "rua": "Rua Nova",
+      "numero": 5,
+      "localidade": "Braga",
+      "codigoPostal": "4700-001",
+      "dataNascimento": "1975-03-25",
+      "cargo": "Gerente",
+      "idStand": 1
+    },
+    {
+      "idFuncionario": 2,
+      "nome": "Maria Costa",
+      "rua": "Avenida Central",
+      "numero": 100,
+      "localidade": "Guimarães",
+      "codigoPostal": "4810-222",
+      "dataNascimento": "1980-09-10",
+      "cargo": "Rececionista",
+      "idStand": 2
+    }
+  ]
+  

@@ -1,0 +1,25 @@
+[
+    {
+      "idStand": 1,
+      "rua": "Avenida Central",
+      "numero": 50,
+      "localidade": "Braga",
+      "codigoPostal": "4700-500",
+      "anoAbertura": 1990,
+      "nrFuncionarios": 3,
+      "nrCarros": 20,
+      "telefone": "+351 930000001"
+    },
+    {
+      "idStand": 2,
+      "rua": "Rua das Laranjeiras",
+      "numero": 10,
+      "localidade": "Vila Verde",
+      "codigoPostal": "4730-110",
+      "anoAbertura": 1992,
+      "nrFuncionarios": 2,
+      "nrCarros": 15,
+      "telefone": "+351 930000002"
+    }
+  ]
+  
