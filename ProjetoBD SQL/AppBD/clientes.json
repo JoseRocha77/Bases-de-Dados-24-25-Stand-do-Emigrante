@@ -1,0 +1,51 @@
+[
+  {
+    "idCliente": 1,
+    "nome": "João Ferreiraaaa",
+    "nacionalidade": "Portuguesa",
+    "NIF": "123456789",
+    "rua": "Rua do Tejo",
+    "numero": "15",
+    "localidade": "Lisboa",
+    "codigoPostal": "1100-451"
+  },
+  {
+    "idCliente": 2,
+    "nome": "Sofia Marques",
+    "nacionalidade": "Portuguesa",
+    "NIF": "987654321",
+    "rua": "Avenida da Liberdade",
+    "numero": "200",
+    "localidade": "Porto",
+    "codigoPostal": "4000-100"
+  },
+  {
+    "idCliente": 3,
+    "nome": "Carlos Hernández",
+    "nacionalidade": "Espanhola",
+    "NIF": "567891234",
+    "rua": "Calle Mayor",
+    "numero": "10",
+    "localidade": "Madrid",
+    "codigoPostal": "28013"
+  },
+  { "idCliente": 4, 
+    "nome": "Albino Santos",
+    "nacionalidade": "Portugusa", 
+    "NIF": "394857162", 
+    "rua": "Avenida Portugal", 
+    "numero": "35", 
+    "localidade": "Braga", 
+    "codigoPostal": "3700-421" 
+  },
+  { 
+    "idCliente": 5, 
+    "nome": "Joana Sousa", 
+    "nacionalidade": "Portuguesa",
+    "NIF": "736491028", 
+    "rua": "Rua da Dobrinha", 
+    "numero": "76", 
+    "localidade": "Aveiro", 
+    "codigoPostal": "3800-982"
+  }
+]

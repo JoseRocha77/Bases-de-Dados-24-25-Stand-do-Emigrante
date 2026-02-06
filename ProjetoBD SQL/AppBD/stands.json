@@ -1,0 +1,29 @@
+[
+  {
+    "idStand": 1,
+    "rua": "Avenida Dr. João Lobo",
+    "numero": "46",
+    "localidade": "Vila Verde",
+    "codigoPostal": "4730-752",
+    "anoAbertura": 1990,
+    "telefone": "253956012"
+  },
+  {
+    "idStand": 2,
+    "rua": "Largo São José do Rio",
+    "numero": "23",
+    "localidade": "Braga",
+    "codigoPostal": "4700-487",
+    "anoAbertura": 1998,
+    "telefone": "253105823"
+  },
+  {
+    "idStand": 3,
+    "rua": "Rua do Arranjinho",
+    "numero": "9",
+    "localidade": "Barcelos",
+    "codigoPostal": "4750-145",
+    "anoAbertura": 2000,
+    "telefone": "253436381"
+  }
+]

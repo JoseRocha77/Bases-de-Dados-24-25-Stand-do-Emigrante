@@ -1,0 +1,35 @@
+[
+  {
+    "idFuncionario": 1,
+    "nome": "Jacinto Silva da Lama",
+    "rua": "Rua das Oliveiras",
+    "numero": "12",
+    "localidade": "Vila Verde",
+    "codigoPostal": "4730-123",
+    "dataNascimento": "1980-05-14",
+    "cargo": "Funcionário",
+    "idStand": 1
+  },
+  {
+    "idFuncionario": 2,
+    "nome": "Maria Arminda do Céu Costa",
+    "rua": "Avenida do Mar",
+    "numero": "45",
+    "localidade": "Vila Verde",
+    "codigoPostal": "4730-087",
+    "dataNascimento": "1975-08-22",
+    "cargo": "Funcionário",
+    "idStand": 2
+  },
+  {
+    "idFuncionario": 3,
+    "nome": "Armando Quintino Barbosa",
+    "rua": "Travessa do Sol",
+    "numero": "8",
+    "localidade": "Famalicão",
+    "codigoPostal": "4760-250",
+    "dataNascimento": "1990-03-10",
+    "cargo": "Funcionário",
+    "idStand": 3
+  }
+]

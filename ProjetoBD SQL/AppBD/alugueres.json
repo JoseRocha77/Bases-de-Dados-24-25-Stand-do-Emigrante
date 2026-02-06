@@ -1,0 +1,61 @@
+[
+  {
+    "idAluguer": 1,
+    "idVeiculo": 1,
+    "idFuncionario": 1,
+    "idCliente": 1,
+    "dataInicio": "2024-05-01 09:00:00",
+    "dataFinalPrevista": "2024-05-07 09:00:00",
+    "dataFinalEfetiva": "2024-05-07 08:50:00",
+    "valorTotal": 280.00,
+    "tipoPagamento": "A Pronto",
+    "estado": "Inativo"
+  },
+  {
+    "idAluguer": 2,
+    "idVeiculo": 3,
+    "idFuncionario": 2,
+    "idCliente": 2,
+    "dataInicio": "2024-05-15 14:00:00",
+    "dataFinalPrevista": "2024-05-20 14:00:00",
+    "dataFinalEfetiva": "2024-05-21 10:00:00",
+    "valorTotal": 4500.00,
+    "tipoPagamento": "Parcial",
+    "estado": "Inativo"
+  },
+  {
+    "idAluguer": 3,
+    "idVeiculo": 6,
+    "idFuncionario": 3,
+    "idCliente": 3,
+    "dataInicio": "2024-06-01 10:00:00",
+    "dataFinalPrevista": "2024-06-10 10:00:00",
+    "dataFinalEfetiva": null,
+    "valorTotal": 288.00,
+    "tipoPagamento": "A Pronto",
+    "estado": "Ativo"
+  },
+  { 
+    "idAluguer": 4, 
+    "idVeiculo": 4, 
+    "idFuncionario": 2, 
+    "idCliente": 4, 
+    "dataInicio": "2025-06-01 09:00:00", 
+    "dataFinalPrevista": "2025-06-06 16:00:00", 
+    "dataFinalEfetiva": null, 
+    "valorTotal": 160.00, 
+    "tipoPagamento": "Parcial", 
+    "estado": "Ativo" 
+  },
+  { 
+    "idAluguer": 5,
+    "idVeiculo": 5, 
+    "idFuncionario": 3, 
+    "idCliente": 1, 
+    "dataInicio": "2025-04-23 10:00:00", 
+    "dataFinalPrevista": "2025-04-25 18:00:00", 
+    "dataFinalEfetiva": "2025-04-25 18:00:00", 
+    "valorTotal": 70.00, 
+    "tipoPagamento": "A Pronto", 
+    "estado": "Inativo" }
+]

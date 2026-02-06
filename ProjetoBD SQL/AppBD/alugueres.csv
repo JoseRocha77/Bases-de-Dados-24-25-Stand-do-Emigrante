@@ -1,0 +1,7 @@
+idAluguer,idVeiculo,idFuncionario,idCliente,dataInicio,dataFinalPrevista,dataFinalEfetiva,valorTotal,tipoPagamento,estado
+1,1,1,1,2024-05-01 09:00:00,2024-05-07 09:00:00,2024-05-07 08:50:00,280.0,A Pronto,Inativo
+2,3,2,2,2024-05-15 14:00:00,2024-05-20 14:00:00,2024-05-21 10:00:00,4500.0,Parcial,Inativo
+3,6,3,3,2024-06-01 10:00:00,2024-06-10 10:00:00,,288.0,A Pronto,Ativo
+4,4,2,4,2025-06-01 09:00:00,2025-06-06 16:00:00,,160.0,Parcial,Ativo
+5,5,3,1,2025-04-23 10:00:00,2025-04-25 18:00:00,2025-04-25 18:00:00,70.0,A Pronto,Inativo
+

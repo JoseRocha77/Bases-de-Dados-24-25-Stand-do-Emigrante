@@ -1,0 +1,4 @@
+idFuncionario,nome,rua,numero,localidade,codigoPostal,dataNascimento,cargo,idStand
+1,Jacinto Silva da Lama,Rua das Oliveiras,12,Vila Verde,4730-123,1980-05-14,Funcionário,1
+2,Maria Arminda do Céu Costa,Avenida do Mar,45,Vila Verde,4730-087,1975-08-22,Funcionário,2
+3,Armando Quintino Barbosa,Travessa do Sol,8,Famalicão,4760-250,1990-03-10,Funcionário,3

@@ -1,0 +1,7 @@
+idVeiculo,matricula,marca,modelo,cor,anoFabrico,tipoCombustivel,quilometragem,prazoSeguro,prazoInspecao,precoDia,idStand
+1,12-VA-76,Mercedes,Class A,Cinzento,2018,Diesel,120000,2026/01/12,2027/02/16,40.0,1
+2,BG-01-TY,Renault,Clio,Branco,2017,Gasolina,95000,2025/06/15,2026/06/15,25.0,1
+3,IU-70-PO,Porsche,Carrera S,Preto,2021,Diesel,40000,2025/10/28,2026/03/20,750.0,2
+4,01-AA-10,Seat,Ibiza,Cinzento,2014,Diesel,180000,2025/08/02,2027/04/05,28.0,2
+5,45-LB-03,Volkswagen,Golf,Azul,2019,Gasolina,70000,2026/01/01,2027/01/01,35.0,3
+6,07-CR-07,Toyota,Yaris,Vermelho,2020,Híbrido,50000,2026/03/01,2027/03/01,32.0,3

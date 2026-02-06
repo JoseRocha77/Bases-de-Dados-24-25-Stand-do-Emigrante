@@ -1,0 +1,44 @@
+[
+  {
+    "idPagamento": 1,
+    "idAluguer": 1,
+    "valor": 280.00,
+    "dataHora": "2024-05-01 09:10:00",
+    "metodo": "Cartão"
+  },
+  {
+    "idPagamento": 2,
+    "idAluguer": 2,
+    "valor": 2250.00,
+    "dataHora": "2024-05-15 14:30:00",
+    "metodo": "Transferência Bancária"
+  },
+  {
+    "idPagamento": 3,
+    "idAluguer": 2,
+    "valor": 2250.00,
+    "dataHora": "2024-05-20 14:00:00",
+    "metodo": "Transferência Bancária"
+  },
+  {
+    "idPagamento": 4,
+    "idAluguer": 3,
+    "valor": 288.00,
+    "dataHora": "2024-06-01 10:15:00",
+    "metodo": "Dinheiro"
+  },
+  { 
+    "idPagamento": 5, 
+    "idAluguer": 4, 
+    "valor": 80.00, 
+    "dataHora": "2025-06-06 16:00:00", 
+    "metodo": "Dinheiro" 
+  },
+  { 
+    "idPagamento": 6, 
+    "idAluguer": 5, 
+    "valor": 70.00, 
+    "dataHora": "2025-04-23 10:00:00", 
+    "metodo": "Cartão" 
+  }
+]

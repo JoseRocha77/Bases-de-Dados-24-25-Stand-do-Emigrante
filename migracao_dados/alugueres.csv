@@ -1,3 +1,0 @@
-idAluguer,idVeiculo,idFuncionario,idCliente,dataInicio,dataFinalPrevista,dataFinalEfetiva,valorTotal,tipoPagamento,estado
-1,1,1,1,2025-05-01,2025-05-05,2025-05-05,225.00,A pronto,Inativo
-2,2,2,2,2025-05-10,2025-05-15,,200.00,Parcial,Ativo

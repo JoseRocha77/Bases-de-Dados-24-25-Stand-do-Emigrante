@@ -1,0 +1,9 @@
+[
+  { "idCliente": 1, "contacto": "+351 912345678" },
+  { "idCliente": 1, "contacto": "+33 612345678" },
+  { "idCliente": 2, "contacto": "+351 932112233" },
+  { "idCliente": 3, "contacto": "+351 911998877" },
+  { "idCliente": 3, "contacto": "+34 612345678" },
+  { "idCliente": 4, "contacto": "+351 968204918" },
+  { "idCliente": 5, "contacto": "+351 927591112" }
+]

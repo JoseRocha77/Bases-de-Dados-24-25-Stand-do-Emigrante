@@ -1,0 +1,7 @@
+idPagamento,idAluguer,valor,dataHora,metodo
+1,1,280.0,2024-05-01 09:10:00,Cartão
+2,2,2250.0,2024-05-15 14:30:00,Transferência Bancária
+3,2,2250.0,2024-05-20 14:00:00,Transferência Bancária
+4,3,288.0,2024-06-01 10:15:00,Dinheiro
+5,4,80.0,2025-06-06 16:00:00,Dinheiro
+6,5,70.0,2025-04-23 10:00:00,Cartão
